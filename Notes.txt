@@ -1,0 +1,31 @@
+React - Javascript library which is used to make interactive user interfaces.
+      - It is a frontent app develpoment lirary.
+
+How React works?
+- React is a component based development library.
+- Whenever you develop a website dont develop in a single file divide the page into small components.
+- Create all of the things as a seperate component.
+- And attach all the components to form a webpage.
+- We can reuse the component again and again so that i dont have to code again.
+- React is a component based frontend development library which helps you to develop your UIs in much more better way by dividing your webpage into components and you fit in those components
+  as puzzle peices to create webpages.
+- You can use those component in other webpages also.
+
+
+- While creating components you will create seperate html, css, js that means components are completely independent it is not dependent on one another.
+- If any components fails it will not affect any other components.
+- As component is independent you can add or remove the components.
+
+
+How to set up react app
+1. Install the nodejs in your computer it is a Javascript engine. 
+ - It is Javascript environment and it will set up your system for Javascript environment.
+ - It will provide npx and npm package managers which helps you to install node modules.
+
+- Once you install node js now js runtime is done means you can run Javascript anywhere in your system without depending on the browser or html.
+
+npm - node package module it is a tool which you also get when you install node js
+    - It helps you to install, uninstall and manage the libraries and tools related to javascript in your system.
+
+npx - node package executer It will directly executes the tools which is needed for the javascript to run without installing any tools or libraries.
+
